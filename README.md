@@ -24,20 +24,21 @@
     <img src="https://img.shields.io/badge/Next%20js-gray?style=for-the-badge&logo=next.js" alt="Next.js">
     <img src="https://img.shields.io/badge/bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
     <img src="https://img.shields.io/badge/scratch-orange?style=for-the-badge&logo=scratch&logoColor=white" alt="Scratch">
+    <img src="https://img.shields.io/badge/figma-gray?style=for-the-badge&logo=figma&logoColor=red" alt="Figma">
   </p>
 </div>
 
 ### About Me
 - 🔭 I’m currently working on **building exciting web applications**
-- 🌱 I’m currently learning **Vue.js** to add some magic to my coding spells.
+- 🌱 I’m currently learning **Next.js** to add some magic to my coding spells.
 - 🤔 I’m looking for help with **competitive programming** because I want to level up my coding ninja skills.
 - 💬 Ask me about **web development, UI/UX design, and programming languages**, and I'll have something to input!
 - 📫 How to reach me: Shoot me an email at **[rifkiadi348@gmail.com](mailto:rifkiadi348@gmail.com)**, or WhatsApp **+62877 5596 2888** and let's connect.
-- ⚡ Fun fact: **I love watching futuristic movies && reading tech blogs** to keep my imagination fueled and my coding vibes strong.
+- ⚡ Fun fact: **I love playing game && watching movie** to keep my imagination fueled and my coding vibes strong.
 
-🌐 Check out my latest website project: [Branighan Group Ltd](https://branighangroup.com)
+🌐 Check out my latest website project: [Pemilihan Ketua Osis](https://github.com/rifkigg/Pemilihan_Ketua_Osis)
 
-🎓 Currently studying BSc Computer Science and tinkering with Jetpack Compose and Cisco/Huawei network simulators. I'm also an API developer and a master of computer hardware assembly or repair.
+🎓 Currently studying in SMKN 2 Bangkalan East Java, Indonesian.
 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=rifkigg&style=for-the-badge&color=blue" alt=""/>
@@ -65,8 +66,10 @@
 ### My Favorite Tools and Technologies
  <img width="90" height="30" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
  <img width="90" height="30" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
- <img width="90" height="30" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white" alt="Node.js"/>
- <img width="90" height="30" src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue-dot-js&logoColor=white" alt="Vue.js"/>
+ <img width="90" height="30" src="https://img.shields.io/badge/Next%20js-gray?style=for-the-badge&logo=next.js" alt="Next.js">
+ <img width="90" height="30" src="https://img.shields.io/badge/bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+ <img width="90" height="30" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+ <img width="90" height="30" src="https://img.shields.io/badge/Laravel-tomato?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
   </div>
   <br />
 <p align="center">
@@ -96,7 +99,7 @@ If you enjoy my work, consider supporting me:
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GodyRacks/GodyRacks/main/github-snake.svg" alt="Snake Animation" style="pointer-events: none;"/>
+  <img src="https://raw.githubusercontent.com/rifkigg/rifkigg/main/github-snake.svg" alt="Snake Animation" style="pointer-events: none;"/>
 </p>
 
 
