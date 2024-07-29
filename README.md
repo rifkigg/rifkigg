@@ -50,13 +50,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rifkigg&theme=radical" alt="GitHub Streak Stats"/>
 </p>
 
-
-
-### Recent Blog Posts
-- **[What is Github?](https://thinkwemake.com/blog/full-article/level-up-your-coding-journey:-why-github-is-essential-for-beginners-and-how-to-get-started)**
-- **[GB Whatsapp Issues, Ban.](https://thinkwemake.com/blog/full-article/unpacking-whatsapp-gb:-issues,-privacy-concerns,-and-transitioning-to-official-messenger)**
-
-
 <div align="center" style="max-width: 500px; margin: 0 auto;">
 
 ### My Favorite Tools and Technologies
