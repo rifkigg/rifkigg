@@ -4,7 +4,7 @@
   uses: Platane/snk@v3.0.0
   with:
     # github user name
-    github_user_name: 
+    rifkigg: 
     # list of files to generate.
 one file per line. Each output can be customized with options as query string.
 
