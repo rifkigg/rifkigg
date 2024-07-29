@@ -1,7 +1,5 @@
-<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
-  <rect width="200" height="200" fill="white"/>
-  <circle cx="20" cy="100" r="10" fill="green">
-    <animate attributeName="cx" values="20;180;20" dur="3s" repeatCount="indefinite"/>
-  </circle>
-</svg>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
