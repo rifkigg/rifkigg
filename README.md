@@ -44,10 +44,6 @@
   <img src="https://komarev.com/ghpvc/?username=rifkigg&style=for-the-badge&color=blue" alt=""/>
 </div>
 
-### Recent Projects Showcase
-- **Branighan Group**: [Real Estate, East African Design, Buy & Build Firm](https://branighangroup.com)
-- **Chang Adventure**: [Trips and Tours (still under development) ](https://changadventure.co.ke)
-
 ### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rifkigg&show_icons=true&theme=radical" alt="GitHub Stats"/>
