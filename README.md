@@ -66,11 +66,11 @@
 </p>
 
 ### Inspirational Quotes
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+> The best error message is the one that never shows up." – Thomas Fuchs
 
-> "First, solve the problem. Then, write the code." – John Johnson
+> "Testing leads to failure, and failure leads to understanding." – Burt Rutan
 
-> "Experience is the name everyone gives to their mistakes." – Oscar Wilde
+> "It’s not a bug; it’s an undocumented feature." – Anonymous
 
 ### Connect with Me
 <p align="center">
