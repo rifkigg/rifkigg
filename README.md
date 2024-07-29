@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/rifkigg?tab=followers">
-    <img src="https://img.shields.io/github/followers/GodyRacks?label=Followers&logo=GitHub&style=for-the-badge&hide_border=true" alt="GitHub badge"/>
+    <img src="https://img.shields.io/github/followers/rifkigg?label=Followers&logo=GitHub&style=for-the-badge&hide_border=true" alt="GitHub badge"/>
   </a>
 </p>
 
@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue-dot-js&logoColor=white" alt="Vue.js"/>
+    <img src="[https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue-dot-js&logoColor=white](https://img.shields.io/badge/Laravel-tomato?style=for-the-badge&logo=laravel&logoColor=white)" alt="Laravel"/>
     <img src="https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   </p>
 </div>
