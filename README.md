@@ -21,6 +21,9 @@
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
     <img src="https://img.shields.io/badge/Laravel-tomato?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
     <img src="https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+    <img src="https://img.shields.io/badge/Next%20js-gray?style=for-the-badge&logo=next.js" alt="Next.js">
+    <img src="https://img.shields.io/badge/bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+    <img src="https://img.shields.io/badge/scratch-orange?style=for-the-badge&logo=scratch&logoColor=white" alt="Scratch">
   </p>
 </div>
 
