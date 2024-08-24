@@ -12,7 +12,7 @@
   </a>
 </p>
 
- ### Top Technologies
+ ## Top Technologies
 <div align="center" style="max-width: 500px; margin: 0 auto;">
   <p>
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -28,7 +28,7 @@
   </p>
 </div>
 
-### About Me
+## About Me
 - 🔭 I’m currently working on **building exciting web applications**
 - 🌱 I’m currently learning **Next.js** to add some magic to my coding spells.
 - 🤔 I’m looking for help with **competitive programming** because I want to level up my coding ninja skills.
@@ -44,15 +44,15 @@
   <img src="https://komarev.com/ghpvc/?username=rifkigg&style=for-the-badge&color=blue" alt=""/>
 </div>
 
-### GitHub Stats
+## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rifkigg&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rifkigg&theme=radical" alt="GitHub Streak Stats"/>
 </p>
 
-<div align="center" style="max-width: 500px; margin: 0 auto;">
 
-### My Favorite Tools and Technologies
+## My Favorite Tools and Technologies
+<div align="center" style="max-width: 500px; margin: 0 auto;">
  <img width="90" height="30" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
  <img width="90" height="30" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
  <img width="90" height="30" src="https://img.shields.io/badge/Next%20js-gray?style=for-the-badge&logo=next.js" alt="Next.js">
@@ -65,21 +65,31 @@
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifkigg&size_weight=0.0005&count_weight=0.3&layout=compact&theme=radical">
 </p>
 
-### Inspirational Quotes
+## Inspirational Quotes
 > The best error message is the one that never shows up." – Thomas Fuchs
 
 > "Testing leads to failure, and failure leads to understanding." – Burt Rutan
 
 > "It’s not a bug; it’s an undocumented feature." – Anonymous
 
-### Connect with Me
+## Connect with Me
 <p align="center">
   <a href="https://www.instagram.com/mrifkii.as/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
 
-### Support Me
+## Support Me
 If you enjoy my work, consider supporting me:
 - Leave a star to your favorite repo
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rifkigg&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies"/>
+</p>
+
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rifkigg&theme=react-dark" alt="Contribution Graph"/>
+</p>
 
 
 <p align="center">
