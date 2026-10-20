@@ -81,16 +81,6 @@
 If you enjoy my work, consider supporting me:
 - Leave a star to your favorite repo
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rifkigg&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies"/>
-</p>
-
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rifkigg&theme=react-dark" alt="Contribution Graph"/>
-</p>
-
 
 <p align="center">
 <picture>
